@@ -27,4 +27,4 @@ def countEmail():
 ## uncomment countEmail() and run > python counter.py
 ## ***IMPORTANT*** please recomment before you submit/sync your assignment.
 ## OR YOUR TEST WILL NOT RUN
-countEmail()
+##countEmail()
