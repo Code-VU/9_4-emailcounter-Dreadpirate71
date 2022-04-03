@@ -22,7 +22,7 @@ def countEmail():
 
     #mostFrom = max(countEmails, key=countEmails.get)   
     print (maxSender, maxCount)
-    print (countEmails)
+    #print (countEmails)
 ## if you want to test locally before you try to sync
 ## uncomment countEmail() and run > python counter.py
 ## ***IMPORTANT*** please recomment before you submit/sync your assignment.
